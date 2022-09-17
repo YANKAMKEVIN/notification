@@ -1,0 +1,75 @@
+{
+  "channels": [
+    {
+      "channelcode": "1",
+      "channelurl": "igmp://239.1.1.1:3000",
+      "timeshifturl": "",
+      "timeshiftenable": "0",
+      "channelname": "Chanel1"
+    },
+    {
+      "channelcode": "2",
+      "channelurl": "igmp://239.1.1.1:3001",
+      "timeshifturl": "",
+      "timeshiftenable": "0",
+      "channelname": "Chanel2"
+    }
+    ,
+    {
+      "channelcode": "3",
+      "channelurl": "igmp://239.1.1.1:3002",
+      "timeshifturl": "",
+      "timeshiftenable": "0",
+      "channelname": "Chanel3"
+    },
+    {
+      "channelcode": "4",
+      "channelurl": "igmp://239.1.1.1:3003",
+      "timeshifturl": "",
+      "timeshiftenable": "0",
+      "channelname": "Chanel4"
+    },
+    {
+      "channelcode": "5",
+      "channelurl": "igmp://239.1.1.1:3004",
+      "timeshifturl": "",
+      "timeshiftenable": "0",
+      "channelname": "Chanel5"
+    },
+    {
+      "channelcode": "6",
+      "channelurl": "igmp://239.1.1.1:3005",
+      "timeshifturl": "",
+      "timeshiftenable": "0",
+      "channelname": "Chanel6"
+    },
+    {
+      "channelcode": "7",
+      "channelurl": "igmp://239.1.1.1:3006",
+      "timeshifturl": "",
+      "timeshiftenable": "0",
+      "channelname": "Chanel7"
+    },
+    {
+      "channelcode": "8",
+      "channelurl": "igmp://239.1.1.1:3007",
+      "timeshifturl": "",
+      "timeshiftenable": "0",
+      "channelname": "Chanel8"
+    },
+    {
+      "channelcode": "9",
+      "channelurl": "igmp://239.1.1.1:3000",
+      "timeshifturl": "",
+      "timeshiftenable": "0",
+      "channelname": "Chanel9"
+    },
+    {
+      "channelcode": "10",
+      "channelurl": "igmp://239.1.1.1:3000",
+      "timeshifturl": "",
+      "timeshiftenable": "0",
+      "channelname": "Chanel10"
+    }
+  ]
+}
